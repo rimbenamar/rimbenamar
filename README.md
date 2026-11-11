@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Rim Benamar</h1><p align="center">
+  <strong>Data Science & Artificial Intelligence</strong><br>
+  Engineering student at ENSAM Rabat · Morocco
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/rim-benamar/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:r.rimbenamar@gmail.com">Email</a>
+</p>About
+I'm an engineering student specializing in Data Science, Artificial Intelligence and Digital Health at ENSAM Rabat. My interests span data quality, machine learning and generative AI, with a focus on making data useful and results understandable.
 
-<!--
-**rimbenamar/rimbenamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beyond technology, I enjoy public speaking, student community initiatives and playing the violin.
+Skills
+Area	Technologies & methods
+Data & analytics	Python · SQL · Pandas · NumPy · Data cleaning & validation
+Machine learning	Scikit-learn · PyTorch · TensorFlow · NLP · Anomaly detection
+Generative AI	LLMs · RAG · AI agents · LangChain · LangGraph · Ollama
+Visualization	Power BI · Plotly · Matplotlib · Streamlit
+Development & tools	FastAPI · Flask · React · PostgreSQL · Docker · Git
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>Curiosity, clarity and a practical approach to data.</sub></p>
